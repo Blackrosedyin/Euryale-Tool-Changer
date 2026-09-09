@@ -14,8 +14,15 @@ By using floating barrel bolts instead of rigid mounts, the design achieves an e
 <img width="1920" height="1080" alt="Hotend Mount R2" src="https://github.com/user-attachments/assets/1222d248-f3db-40a3-a349-0e99556271a1" />
 <img width="1920" height="1080" alt="Assembly" src="https://github.com/user-attachments/assets/4490907c-39f4-4209-ba25-7918877021d2" />
 
+# CAD Files
+At this time, source files are view only via Fusion as the project is currently under active development:
+
+Fusion 360 Project Link: https://a360.co/46orMO9 
+
+(Note: Downloadable STEP, STL, and repository files will be released after physical testing confirms the toolchanger operates reliably and maintains target repeatability.)
+
 # License
-This project is licensed under the GNU General Public License v3.0 (GPLv3).
+The project will maintain same licensing as MedusaHC by Irbis3d, licensed under the GNU General Public License v3.0 (GPLv3).
 
 You are free to copy, distribute, and modify the design files and documentation.
 Any modifications or derivative works must also be shared under the same GPLv3 license terms.
