@@ -25,6 +25,8 @@ By using floating dowel barrel bolts instead of rigid dowel barrel bolts, the de
 # Tool Power Delivery
 Tools on this toolchanger are planned and designed to receive power through standard USB A or Type C cables.
 
+Direct wiring (without usb) to electronics bay will also be supported
+
 # CAD Files
 At this time, source files are view only via Fusion as the project is currently under active development:
 
