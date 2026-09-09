@@ -14,3 +14,10 @@ By using floating barrel bolts instead of rigid mounts, the design achieves an e
 <img width="1920" height="1080" alt="Hotend Mount R2" src="https://github.com/user-attachments/assets/1222d248-f3db-40a3-a349-0e99556271a1" />
 <img width="1920" height="1080" alt="Assembly" src="https://github.com/user-attachments/assets/4490907c-39f4-4209-ba25-7918877021d2" />
 
+# License
+This project is licensed under the GNU General Public License v3.0 (GPLv3).
+
+You are free to copy, distribute, and modify the design files and documentation.
+Any modifications or derivative works must also be shared under the same GPLv3 license terms.
+If you distribute hardware derived from these source files, you must provide access to the CAD files and complete source code.
+See the LICENSE file for the full text of the GNU General Public License v3.0.
