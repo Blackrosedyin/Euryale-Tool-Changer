@@ -18,7 +18,8 @@ By using floating dowel barrel bolts instead of rigid dowel barrel bolts, the de
 
 <img width="1920" height="1080" alt="Maxwell Plate R2" src="https://github.com/user-attachments/assets/088fd247-f6c2-460a-8911-697fb3985996" />
 <img width="1920" height="1080" alt="Hotend Mount R2" src="https://github.com/user-attachments/assets/1222d248-f3db-40a3-a349-0e99556271a1" />
-<img width="1920" height="1080" alt="Assembly" src="https://github.com/user-attachments/assets/4490907c-39f4-4209-ba25-7918877021d2" />
+<img width="1920" height="1080" alt="Transverse" src="https://github.com/user-attachments/assets/f6c72675-ab26-4f34-9495-1dc4e052dc89" />
+
 
 # Tool Power Delivery
 Tools on this toolchanger are planned and designed to receive power through standard USB A or Type C cables.
