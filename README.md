@@ -17,7 +17,7 @@ By using floating barrel bolts instead of rigid barrel bolts, the design achieve
 <img width="1920" height="1080" alt="Assembly" src="https://github.com/user-attachments/assets/4490907c-39f4-4209-ba25-7918877021d2" />
 
 # Tool Power Delivery
-Tools on this toolchanger are planned and designed to receive power through standard USB A or C cables.
+Tools on this toolchanger are planned and designed to receive power through standard USB A or Type C cables.
 
 # CAD Files
 At this time, source files are view only via Fusion as the project is currently under active development:
