@@ -1,7 +1,8 @@
 # Euryale ToolChanger
 Line-Contact Kinematic Coupling fork of MedusaHC by Irbis3D
 
-Euryale Tool Changer is an open-source Toolchanger project based on the MedusaHC Toolchanger by Irbis3D with minor inspiration from CXChanger by cx330-TXY This project is in its beta stage, where it is currently being developed.
+Euryale Tool Changer is an open-source Toolchanger project based on the MedusaHC Toolchanger by Irbis3D with minor inspiration from CXChanger by cx330-TXY. 
+This project is in its beta stage, where it is currently being developed.
 
 <img width="1920" height="1080" alt="Full Picture" src="https://github.com/user-attachments/assets/da86499b-792d-4dee-ab9c-63b9d3df01d7" />
 
@@ -20,6 +21,13 @@ At this time, source files are view only via Fusion as the project is currently 
 Fusion 360 Project Link: https://a360.co/46orMO9 
 
 (Note: Downloadable STEP, STL, and repository files will be released after physical testing confirms the toolchanger operates reliably and maintains target repeatability.)
+
+# Credits
+This project is based on the MedusaHC Toolchanger by Irbis3D
+https://github.com/Irbis3D/MedusaHC/tree/main
+
+With some minor inspiration from CXChanger by cx330-TXY
+https://github.com/cx330-TXY/CxChanger
 
 # License
 The project will maintain same licensing as MedusaHC by Irbis3d, licensed under the GNU General Public License v3.0 (GPLv3).
