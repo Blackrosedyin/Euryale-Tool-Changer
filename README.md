@@ -6,7 +6,7 @@ Euryale Tool Changer is an open-source Toolchanger project based on the MedusaHC
 <img width="1920" height="1080" alt="Full Picture" src="https://github.com/user-attachments/assets/da86499b-792d-4dee-ab9c-63b9d3df01d7" />
 
 # Kinematic Overview
-Kinematic coupling based on a modified Maxwell layout. This design replaces standard point-contact spheres with floating 6mm barrel bolts resting on parallel 3mm dowel pins, thus maximizing shear and transverse load capacity while maintaining positional repeatability.
+Kinematic coupling based on a modified Maxwell layout. This design replaces standard point-contact spheres with floating 6mm barrel bolts resting on parallel 3mm dowel pins, thus maximizing shear and transverse load capacity while maintaining reasonable positional repeatability.
 
 By using floating barrel bolts instead of rigid mounts, the design achieves an exact 6-degree-of-freedom ($X, Y, Z$ and $\theta_x, \theta_y, \theta_z$) constraint, avoiding the 12-DOF over-constraint of a rigid system
 
@@ -19,7 +19,7 @@ At this time, source files are view only via Fusion as the project is currently 
 
 Fusion 360 Project Link: https://a360.co/46orMO9 
 
-(Note: Downloadable STEP, STL, and repository files will be released after physical testing confirms the toolchanger operates reliably and maintains reasonable repeatability.)
+(Note: Downloadable STEP, STL, and repository files will be released after physical testing confirms the toolchanger operates reliably and maintains target repeatability.)
 
 # License
 The project will maintain same licensing as MedusaHC by Irbis3d, licensed under the GNU General Public License v3.0 (GPLv3).
