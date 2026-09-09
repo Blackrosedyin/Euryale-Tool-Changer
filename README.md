@@ -1,7 +1,7 @@
 # Euryale ToolChanger
-Quasi-kinematic (Line-contact) Coupling fork of MedusaHC by Irbis3D
+Quasi-kinematic (Line-contact) Coupling based on MedusaHC by Irbis3D
 
-Euryale ToolChanger is an open-source Toolchanger project based on the MedusaHC Toolchanger by Irbis3D with minor inspiration from CXChanger by cx330-TXY. 
+Euryale ToolChanger is an open-source Toolchanger project that uses the extruder on the MedusaHC Toolchanger by Irbis3D with minor inspiration from CXChanger by cx330-TXY. 
 
 This project is in its beta stage, where it is currently being developed.
 
