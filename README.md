@@ -13,7 +13,7 @@ This project is in its beta stage, where it is currently being developed.
 
 
 # Kinematic Overview
-Quasi-kinematic coupling based on a modified Maxwell layout. This design replaces standard point-contact spheres with floating 6mm barrel bolts resting on parallel 3mm dowel pins, thus maximizing shear and transverse load capacity while maintaining reasonable positional repeatability.
+Quasi-kinematic coupling based on a modified Maxwell layout. This design replaces standard point-contact spheres with floating 6mm barrel bolts resting on parallel 3mm dowel pins at an contact angle of 35 degrees, thus maximizing shear and transverse load capacity while maintaining reasonable positional repeatability.
 
 By using floating dowel barrel bolts instead of rigid dowel barrel bolts, the design achieves an exact 6-degree-of-freedom ($X, Y, Z$ and $\theta_x, \theta_y, \theta_z$) constraint, thus avoiding the 12-DOF over-constraint of a rigid system
 
