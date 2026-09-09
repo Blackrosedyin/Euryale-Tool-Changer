@@ -19,7 +19,7 @@ At this time, source files are view only via Fusion as the project is currently 
 
 Fusion 360 Project Link: https://a360.co/46orMO9 
 
-(Note: Downloadable STEP, STL, and repository files will be released after physical testing confirms the toolchanger operates reliably and maintains target repeatability.)
+(Note: Downloadable STEP, STL, and repository files will be released after physical testing confirms the toolchanger operates reliably and maintains reasonable repeatability.)
 
 # License
 The project will maintain same licensing as MedusaHC by Irbis3d, licensed under the GNU General Public License v3.0 (GPLv3).
