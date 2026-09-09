@@ -17,11 +17,11 @@ Quasi-kinematic coupling based on a modified Maxwell layout. This design replace
 
 By using floating dowel barrel bolts instead of rigid dowel barrel bolts, the design achieves an exact 6-degree-of-freedom ($X, Y, Z$ and $\theta_x, \theta_y, \theta_z$) constraint, thus avoiding the 12-DOF over-constraint of a rigid system
 
+However, this coupling would have a lower accuracy than an traditional Maxwell Coupling, but should have an accuracy that is good enough for a 3d printer (Approx 10 microns)
+
 <img width="1920" height="1080" alt="Maxwell Plate R2" src="https://github.com/user-attachments/assets/088fd247-f6c2-460a-8911-697fb3985996" />
 <img width="1920" height="1080" alt="Hotend Mount R2" src="https://github.com/user-attachments/assets/1222d248-f3db-40a3-a349-0e99556271a1" />
 <img width="1920" height="1080" alt="Transverse" src="https://github.com/user-attachments/assets/f6c72675-ab26-4f34-9495-1dc4e052dc89" />
-
-However, this coupling would have a lower accuracy than an traditional Maxwell Coupling, but should have an accuracy that is good enough for a 3d printer (Approx 10 microns)
 
 
 # Tool Power Delivery
