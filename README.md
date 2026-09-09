@@ -6,6 +6,10 @@ Euryale ToolChanger is an open-source Toolchanger project based on the MedusaHC 
 This project is in its beta stage, where it is currently being developed.
 
 <img width="1920" height="1080" alt="Full Picture" src="https://github.com/user-attachments/assets/da86499b-792d-4dee-ab9c-63b9d3df01d7" />
+<img width="1920" height="1080" alt="Printhead" src="https://github.com/user-attachments/assets/f2d7e453-0624-42bc-81a2-c59e69513056" />
+<img width="1920" height="1080" alt="Tool (Front)" src="https://github.com/user-attachments/assets/ed09fb45-9cc5-4eac-9abe-40fc078d3dd1" />
+<img width="1920" height="1080" alt="Tool (Back)" src="https://github.com/user-attachments/assets/125e9a6c-0094-419a-a238-accb849baeb2" />
+
 
 # Kinematic Overview
 Quasi-kinematic coupling based on a modified Maxwell layout. This design replaces standard point-contact spheres with floating 6mm barrel bolts resting on parallel 3mm dowel pins, thus maximizing shear and transverse load capacity while maintaining reasonable positional repeatability.
