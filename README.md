@@ -5,10 +5,11 @@ Euryale ToolChanger is an open-source Toolchanger project based on the MedusaHC 
 
 This project is in its beta stage, where it is currently being developed.
 
-<img width="1920" height="1080" alt="Full Picture" src="https://github.com/user-attachments/assets/da86499b-792d-4dee-ab9c-63b9d3df01d7" />
-<img width="1920" height="1080" alt="Printhead" src="https://github.com/user-attachments/assets/f2d7e453-0624-42bc-81a2-c59e69513056" />
-<img width="1920" height="1080" alt="Tool (Front)" src="https://github.com/user-attachments/assets/ed09fb45-9cc5-4eac-9abe-40fc078d3dd1" />
-<img width="1920" height="1080" alt="Tool (Back)" src="https://github.com/user-attachments/assets/125e9a6c-0094-419a-a238-accb849baeb2" />
+<img width="1920" height="1080" alt="Assembly" src="https://github.com/user-attachments/assets/ec746d09-b1e0-408b-a9c6-6fccc8bfdf2b" />
+<img width="1920" height="1080" alt="Printhead" src="https://github.com/user-attachments/assets/113fa20a-4968-4d20-bfd2-92863bd32124" />
+<img width="1920" height="1080" alt="Tool (Front)" src="https://github.com/user-attachments/assets/87152016-6792-4937-9f1a-a83bb9c2b506" />
+<img width="1920" height="1080" alt="Tool (Back)" src="https://github.com/user-attachments/assets/90775adc-689d-4b70-8c7f-fa1421e60c33" />
+
 
 
 # Kinematic Overview
