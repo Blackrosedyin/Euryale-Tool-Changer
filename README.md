@@ -1,4 +1,4 @@
-# Euryale-Tool-Changer
+# Euryale ToolChanger
 Line-Contact Kinematic Coupling fork of MedusaHC by Irbis3D
 
 Euryale Tool Changer is an open-source Toolchanger project based on the MedusaHC Toolchanger by Irbis3D. This project is in its beta stage, where it is currently being developed.
