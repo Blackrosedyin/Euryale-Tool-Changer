@@ -25,7 +25,7 @@ However, this coupling would have a lower accuracy than an traditional Maxwell l
 
 
 # Tool Power Delivery
-Tools on this toolchanger natively designed to receive power through standard USB A or Type C cables.
+Tools on this toolchanger are natively designed to receive power through standard USB A or Type C cables.
 
 Direct wiring (without usb) to electronics bay will also be supported
 
