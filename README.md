@@ -12,4 +12,6 @@ By using floating barrel bolts instead of rigid mounts, the design achieves an e
 
 <img width="1194" height="882" alt="image" src="https://github.com/user-attachments/assets/ba159215-d9bd-497d-b784-6615d8cc11a1" />
 <img width="943" height="856" alt="image" src="https://github.com/user-attachments/assets/0882f75a-c242-4908-87e1-e464344f6aa5" />
+<img width="1052" height="743" alt="image" src="https://github.com/user-attachments/assets/41961011-e026-4bce-9706-ffeaf7c9b7d3" />
+
 
